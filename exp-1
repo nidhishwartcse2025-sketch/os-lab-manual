@@ -1,0 +1,13 @@
+winver
+systeminfo
+hostname
+ipconfig
+whoami
+tasklist
+taskkill /PID 1234 /F
+dir
+cd
+mkdir test
+rmdir test
+cls
+echo Hello World
